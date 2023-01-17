@@ -8,9 +8,6 @@ function App() {
         <h1>Mis tareas</h1>
           <ListaDeTareas />
       </div>
-      <div className="tareas">
-
-      </div>
     </div>
   );
 }
